@@ -2,7 +2,8 @@
 
 <div style="overflow: hidden;">
   <!-- Imagen alineada a la derecha -->
-  <img width="50%" align="right" alt="Github" src="https://github.com/user-attachments/assets/3f217fce-b30c-43d8-8fba-2c462071ea6a" style="float: right; margin-left: 20px;" />
+<img>
+
   
   <!-- Texto alineado a la izquierda -->
   <p align="left">
