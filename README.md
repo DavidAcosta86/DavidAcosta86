@@ -2,7 +2,7 @@
 
 <div style="overflow: hidden;">
   <!-- Imagen alineada a la derecha -->
-![java_logo_640](https://github.com/user-attachments/assets/94f66fbf-96ba-4deb-b41a-2fcf4222ca62)
+<img src="https://github.com/user-attachments/assets/94f66fbf-96ba-4deb-b41a-2fcf4222ca62"> 
 
   
   <!-- Texto alineado a la izquierda -->
