@@ -1,14 +1,12 @@
 ## Hello 👋 Hello! I'm David Acosta, Back End Developer
 
-<div style="overflow: hidden;">
-  <!-- Imagen alineada a la derecha -->
-<img  width="10%" src="https://github.com/user-attachments/assets/94f66fbf-96ba-4deb-b41a-2fcf4222ca62"> 
-
-  
+<div style="display: flex; justify-content: space-around; gap: 15vw">
   <!-- Texto alineado a la izquierda -->
-  <p align="left">
-    Hello! I'm a passionate Back End Developer with a keen focus on Java and Spring. I love to bring creative functions to life and solve complex problems with code. I'm a team player who is always eager to collaborate.
+  <p>
+    Hello! I'm a passionate Back End Developer with a keen focus on Java and Spring. I love to bring creative functions to life and solve complex problems with code. I'm a team player who is always eager to collaborate. x
   </p>
+  <!-- Imagen alineada a la derecha -->
+  <img width="50%" src="https://github.com/user-attachments/assets/94f66fbf-96ba-4deb-b41a-2fcf4222ca62">
 </div>
 <!--
 **DavidAcosta86/DavidAcosta86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
