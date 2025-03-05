@@ -24,7 +24,7 @@ Welcome to my profile! I'm David Acosta, a passionate and driven backend develop
 
 Feel free to reach out if you'd like to collaborate on a project, exchange ideas, or just chat about tech. I'm always open to new challenges and learning opportunities!
 
-- [LinkedIn](https://www.linkedin.com/in/daviddacosta) 
+- [LinkedIn](https://www.linkedin.com/in/davidracosta) 
 - [GitHub](https://github.com/davidacosta86) 
 
 ---
